@@ -1,0 +1,7 @@
+base   classes
+author Huu Nghia Nguyen
+email  huunghia.nguyen@me.com
+date   2015-07-28
+name   classes plugin
+desc   Generate a div
+url    https://github.com/nhnghia/dokuwiki-div-class
